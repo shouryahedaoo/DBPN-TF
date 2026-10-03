@@ -1,0 +1,14 @@
+published : true
+
+theme : simple
+
+theme-override : template/css/PITCHME.css
+
+logo : template/img/logo.png
+logo-position : top-left
+
+footnote : "DBPN for Super Resolution"
+highlight : atom-one-dark
+layout : center
+
+transition : none
